@@ -1,0 +1,92 @@
+[
+  {
+    "label": "Question # 1: What is 2 + 3?",
+    "choices": [
+      {"value": "5", "correct": true},
+      {"value": "15", "correct": false},
+      {"value": "3", "correct": false},
+      {"value": "pi", "correct": false}
+    ]
+  },
+  {
+    "label": "Question # 2: What is 3 - 9?",
+    "choices": [
+      {"value": "3", "correct": false},
+      {"value": "-6", "correct": true},
+      {"value": "Bonjour", "correct": false},
+      {"value": "pi", "correct": false}
+    ]
+  },
+  {
+      "label": "Question # 3: What is 2 * 10?",
+      "choices": [
+        {"value": "20", "correct": true},
+        {"value": "17", "correct": false},
+        {"value": "22", "correct": false},
+        {"value": "5", "correct": false}
+      ]
+    },
+    {
+      "label": "Question # 4: What is 100 / 25?",
+      "choices": [
+        {"value": "20", "correct": false},
+        {"value": "4", "correct": true},
+        {"value": "40", "correct": false},
+        {"value": "3", "correct": false}
+      ]
+    },
+    {
+      "label": "Question # 5: What is 2500 + 175?",
+      "choices": [
+        {"value": "3000", "correct": false},
+        {"value": "3225", "correct": false},
+        {"value": "2675", "correct": true},
+        {"value": "2700", "correct": false}
+      ]
+    },
+    {
+      "label": "Question # 6: What is 3278 - 675?",
+      "choices": [
+        {"value": "3110", "correct": false},
+        {"value": "2930", "correct": false},
+        {"value": "2286", "correct": false},
+        {"value": "2603", "correct": true}
+      ]
+    },
+    {
+      "label": "Question # 7: What is 575 * 12?",
+      "choices": [
+        {"value": "7000", "correct": false},
+        {"value": "6900", "correct": true},
+        {"value": "6800", "correct": false},
+        {"value": "6750", "correct": false}
+      ]
+    },
+    {
+      "label": "Question # 8: What is 1200 / 40?",
+      "choices": [
+        {"value": "25", "correct": false},
+        {"value": "40", "correct": false},
+        {"value": "30", "correct": true},
+        {"value": "35", "correct": false}
+      ]
+    },
+    {
+      "label": "Question # 9: What is 62 + 25 + 90?",
+      "choices": [
+        {"value": "176", "correct": false},
+        {"value": "177", "correct": true},
+        {"value": "182", "correct": false},
+        {"value": "190", "correct": false}
+      ]
+    },
+    {
+      "label": "Question # 10: What is 70 - 40 -10?",
+      "choices": [
+        {"value": "20", "correct": true},
+        {"value": "15", "correct": false},
+        {"value": "25", "correct": false},
+        {"value": "12", "correct": false}
+      ]
+    }
+]
