@@ -5,7 +5,7 @@ import { Question } from 'src/quiz.model';
 @Component({
   selector: 'app-question-form',
   templateUrl: './question-form.component.html',
-  styleUrls: ['./question-form.component.css']
+  styleUrls: ['./question-form.component.scss']
 })
 export class QuestionFormComponent implements OnInit {
 
