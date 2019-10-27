@@ -1,5 +1,6 @@
-$resultsBorder: 1px darkslateblue outset;
+$resultsBorder: 5px darkslateblue outset;
 
 .resultsCard{
-    border: $resultsBorder
+    border: $resultsBorder;
+    width:60%;
 }
