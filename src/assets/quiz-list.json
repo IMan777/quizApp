@@ -1,0 +1,20 @@
+[
+    {
+      "label": "Maths",
+      "name": "maths",
+      "description": "Math Questions",
+      "fileName": "maths.json"
+    },
+    {
+      "label": "Presidents",
+      "name": "presidents",
+      "description": "US Presidential History Questions",
+      "fileName": "presidents.json"
+    },
+    {
+      "label": "PC Terminology",
+      "name": "pc terms",
+      "description": "Various PC Terminolog Questions",
+      "fileName": "pcterms.json"
+    }
+  ]
