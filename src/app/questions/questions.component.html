@@ -10,12 +10,15 @@
     </app-question-form>
      <br>
     <button class="nextBtn"
-      mat-stroked-button color="primary"
+      mat-raised-button color="primary"
       (click)="nextOrViewResults()"
       [disabled]="!answers.values[currentQuestionIndex]"
     >{{currentQuestionIndex === questions.length - 1 ? 'View results' : 'Next'}}</button>
-  </div>
 
+    <br><br>
+  <a routerLink="/welcome" ><button mat-raised-button color="warn">Quit Test</button></a>
+  </div>
+  
   <app-results *ngIf="showResults" [answers]="answers"></app-results>
 </div>
 </mat-card>
