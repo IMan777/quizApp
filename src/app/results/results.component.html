@@ -3,7 +3,7 @@
     <mat-card-title> The Results Are:</mat-card-title>
     <div class="answer" *ngFor="let a of answers.values" [ngClass]="{correct: a.correct}">
      <span style="font-weight: bold;">{{a.value}}</span> &nbsp; &nbsp;
-      <span style="font-variant: small-caps;">{{a.correct}}</span>
+      <span style="font-variant: small-caps; color: blue;">{{a.correct}}</span>
     </div>
     <br>
     <a routerLink="/welcome" ><button mat-flat-button color="primary">Try Another Quiz!</button></a>
