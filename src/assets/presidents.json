@@ -1,0 +1,95 @@
+[
+    {
+      "label": "Question # 1: What year was George Washington elected President?",
+      "choices": [
+        {"value": "1789", "correct": true},
+        {"value": "1774", "correct": false},
+        {"value": "1760", "correct": false},
+        {"value": "1800", "correct": false}
+      ]
+    },
+    {
+      "label": "Question # 2: Who was the youngest person elected President?",
+      "choices": [
+        {"value": "Dwight Eisenhower", "correct": false},
+        {"value": "John F. Kennedy", "correct": true},
+        {"value": "Howard Taft", "correct": false},
+        {"value": "Woodrow Wilson", "correct": false}
+      ]
+    },
+    {
+        "label": "Question # 3: Who was the first President to serve only term?",
+        "choices": [
+          {"value": "John Adams", "correct": true},
+          {"value": "George H. W. Bush", "correct": false},
+          {"value": "John Quincy Adams", "correct": false},
+          {"value": "Herber Hoover", "correct": false}
+        ]
+      },
+      {
+        "label": "Question # 4: Which person served more than two terms as President?",
+        "choices": [
+          {"value": "Thomas Jefferson", "correct": false},
+          {"value": "Franklin D Roosevelt", "correct": true},
+          {"value": "James Madison", "correct": false},
+          {"value": "Calvin Coolidge", "correct": false}
+        ]
+      },
+      {
+        "label": "Question # 5: Who was the first President to be impeached?",
+        "choices": [
+          {"value": "Richard M. Nixon", "correct": false},
+          {"value": "Bill Clinton", "correct": false},
+          {"value": "Andrew Johnson", "correct": true},
+          {"value": "Benjamin Harrison", "correct": false}
+        ]
+      },
+      {
+        "label": "Question # 6: How many Presidents won election despite losing the popular vote?",
+        "choices": [
+          {"value": "4", "correct": false},
+          {"value": "3", "correct": false},
+          {"value": "6", "correct": false},
+          {"value": "5", "correct": true}
+        ]
+      },
+      {
+        "label": "Question # 7:  Who was the youngest person to become President?",
+        "choices": [
+          {"value": "Barack Obama", "correct": false},
+          {"value": "Theodore Roosevelt", "correct": true},
+          {"value": "John F. Kennedy", "correct": false},
+          {"value": "Ulysses S. Grant", "correct": false}
+        ]
+      },
+      {
+        "label": "Question # 8: The unelected President is whom?",
+        "choices": [
+          {"value": "Lyndon B. Johnson", "correct": false},
+          {"value": "John Tyler", "correct": false},
+          {"value": "Gerald Ford", "correct": true},
+          {"value": "Harry S. Truman", "correct": false}
+        ]
+      },
+      {
+        "label": "Question # 9: How many Republican Presidents have we had so far?",
+        "choices": [
+          {"value": "17", "correct": false},
+          {"value": "19", "correct": true},
+          {"value": "18", "correct": false},
+          {"value": "20", "correct": false}
+        ]
+      },
+      {
+        "label": "Question # 10: How many Democratic Presidents have we had so far?",
+        "choices": [
+          {"value": "15", "correct": true},
+          {"value": "16", "correct": false},
+          {"value": "20", "correct": false},
+          {"value": "18", "correct": false}
+        ]
+      }
+  ]
+
+
+
