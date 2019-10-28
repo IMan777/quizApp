@@ -18,7 +18,7 @@
       ]
     },
     {
-        "label": "Question # 3: Who was the first President to serve only term?",
+        "label": "Question # 3: Who was the first President to serve only one term?",
         "choices": [
           {"value": "John Adams", "correct": true},
           {"value": "George H. W. Bush", "correct": false},
@@ -27,7 +27,7 @@
         ]
       },
       {
-        "label": "Question # 4: Which person served more than two terms as President?",
+        "label": "Question # 4: Which President served more than two terms?",
         "choices": [
           {"value": "Thomas Jefferson", "correct": false},
           {"value": "Franklin D Roosevelt", "correct": true},
