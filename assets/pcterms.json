@@ -1,0 +1,95 @@
+[
+    {
+      "label": "Question # 1: What does RAM stand for?",
+      "choices": [
+        {"value": "Random Access Memory", "correct": true},
+        {"value": "Read Access Memory", "correct": false},
+        {"value": "Random Access Module", "correct": false},
+        {"value": "Read Available Memory", "correct": false}
+      ]
+    },
+    {
+      "label": "Question # 2: One Gigabyte is equal to how many Megabytes?",
+      "choices": [
+        {"value": "500", "correct": false},
+        {"value": "1024", "correct": true},
+        {"value": "600", "correct": false},
+        {"value": "1500", "correct": false}
+      ]
+    },
+    {
+        "label": "Question # 3: The CPU is known as the ...?",
+        "choices": [
+          {"value": "brains of the computer", "correct": true},
+          {"value": "heart of the computer", "correct": false},
+          {"value": "soul of the computer", "correct": false},
+          {"value": "spine of the computer", "correct": false}
+        ]
+      },
+      {
+        "label": "Question # 4: Information or data is stored and retrieved from where?",
+        "choices": [
+          {"value": "The Motherboard", "correct": false},
+          {"value": "Hard Drive", "correct": true},
+          {"value": "Cooling Fan", "correct": false},
+          {"value": "Disk Drive", "correct": false}
+        ]
+      },
+      {
+        "label": "Question # 5: Which hardware device is used to display images on the monitor?",
+        "choices": [
+          {"value": "CPU", "correct": false},
+          {"value": "Motherboard", "correct": false},
+          {"value": "Graphics Card", "correct": true},
+          {"value": "Hard Drive", "correct": false}
+        ]
+      },
+      {
+        "label": "Question # 6: One Terabyte is equal to how many Gigabytes?",
+        "choices": [
+          {"value": "100", "correct": false},
+          {"value": "1500", "correct": false},
+          {"value": "2000", "correct": false},
+          {"value": "1024", "correct": true}
+        ]
+      },
+      {
+        "label": "Question # 7:  The Ctrl + S shortkey is used for what?",
+        "choices": [
+          {"value": "Displaying Status", "correct": false},
+          {"value": "Saving a file", "correct": true},
+          {"value": "Subtraction", "correct": false},
+          {"value": "Synching", "correct": false}
+        ]
+      },
+      {
+        "label": "Question # 8: The standard port used to interface a PC with various external devices?",
+        "choices": [
+          {"value": "Ethernet Port", "correct": false},
+          {"value": "Memory Card Port", "correct": false},
+          {"value": "USB Port", "correct": true},
+          {"value": "HDMI Port", "correct": false}
+        ]
+      },
+      {
+        "label": "Question # 9: SSD stands for?",
+        "choices": [
+          {"value": "Super Station Drive", "correct": false},
+          {"value": "Solid State Drive", "correct": true},
+          {"value": "Solid State Disk", "correct": false},
+          {"value": "Slow Status Drive", "correct": false}
+        ]
+      },
+      {
+        "label": "Question # 10: This port is used to connect a computer to the Internet/network?",
+        "choices": [
+          {"value": "Ethernet Port", "correct": true},
+          {"value": "USB Port", "correct": false},
+          {"value": "HDMI Port", "correct": false},
+          {"value": "Memory Card Port", "correct": false}
+        ]
+      }
+  ]
+
+
+
